@@ -474,7 +474,7 @@
       <!-- Card 2: Calacatta Michelangelo -->
       <div class="aakriti-lam-card" data-category="marble" data-name="Calacatta Michelangelo" data-code="AK-8109" data-finish="Mirror High-Gloss" data-thickness="1.50 mm" data-img="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1000&q=80">
         <div class="aakriti-lam-preview">
-          <img src="api/assets/image/g2.jpg" alt="Calacatta Michelangelo Marble" class="aakriti-lam-img" loading="lazy">
+          <img src="assets/image/g2.jpg" alt="Calacatta Michelangelo Marble" class="aakriti-lam-img" loading="lazy">
           <div class="aakriti-lam-light-sheen"></div>
           <span class="aakriti-lam-tag-floating">Italian Mineral</span>
           <div class="aakriti-lam-3d-badge" title="3D Spec">

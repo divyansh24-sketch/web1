@@ -15,7 +15,7 @@ $slides = [
         'title_italic' => 'Modern Living',
         'subtitle' => 'Elegant laminates that bring sophistication, durability and style to every space. Crafted for modern homes and iconic spaces.',
         'btn_text' => 'Explore Collection',
-        'bg_image' => 'api/assets/image/h1.png'
+        'bg_image' => 'assets/image/h1.png'
     ],
     [
         'id' => 2,
@@ -25,7 +25,7 @@ $slides = [
         'title_italic' => 'Obsidian Gold',
         'subtitle' => 'Deep obsidian depths illuminated by sculpted metallic gold veins. Mirror-glazed perfection delivering opulent quarry drama with zero porosity.',
         'btn_text' => 'Explore Marble Series',
-        'bg_image' => 'api/assets/image/h2.png'
+        'bg_image' => 'assets/image/h2.png'
     ],
     [
         'id' => 3,
@@ -35,7 +35,7 @@ $slides = [
         'title_italic' => 'Walnut Flitch',
         'subtitle' => 'Warm, undulating crown-cut grain ribbons imbued with deep amber richness. Tactile natural depth engineered for monumental monolithic millwork.',
         'btn_text' => 'Explore Woodgrains',
-        'bg_image' => 'api/assets/image/h3.png'
+        'bg_image' => 'assets/image/h3.png'
     ],
     [
         'id' => 4,
@@ -45,7 +45,7 @@ $slides = [
         'title_italic' => 'Roman Limestone',
         'subtitle' => 'Quiet, monolithic sedimentary serenity celebrating ancient Italian architecture. Earthy beige stratifications woven with delicate tactile mineral textures.',
         'btn_text' => 'Explore Stone Line',
-        'bg_image' => 'api/assets/image/h4.png'
+        'bg_image' => 'assets/image/h4.png'
     ]
 ];
 
@@ -55,19 +55,19 @@ $thumbnails = [
         'target_slide' => 1, // Opens Slide 2 (Nero Marquina)
         'title' => 'Nero Marquina Gold',
         'label' => '02 • Marble',
-        'image' => 'api/assets/image/c1.png'
+        'image' => 'assets/image/c1.png'
     ],
     [
         'target_slide' => 2, // Opens Slide 3 (Royal Smoked Walnut)
         'title' => 'Royal Smoked Walnut',
         'label' => '03 • Walnut',
-        'image' => 'api/assets/image/c2.png'
+        'image' => 'assets/image/c2.png'
     ],
     [
         'target_slide' => 3, // Opens Slide 4 (Tivoli Classic Travertine)
         'title' => 'Classic Travertine',
         'label' => '04 • Stone',
-        'image' => 'api/assets/image/c3.png'
+        'image' => 'assets/image/c3.png'
     ]
 ];
 ?>
@@ -940,13 +940,13 @@ $thumbnails = [
 
         <div class="lm-preview-grid">
             <div class="lm-preview-card">
-                <img src="api/assets/image/k1.jpg" alt="Exotic Marble">
+                <img src="assets/image/k1.jpg" alt="Exotic Marble">
             </div>
             <div class="lm-preview-card">
-                <img src="api/assets/image/k2.jpg" alt="Smoked Walnut">
+                <img src="assets/image/k2.jpg" alt="Smoked Walnut">
             </div>
             <div class="lm-preview-card">
-                <img src="api/assets/image/k3.jpg" alt="Limestone Travertine">
+                <img src="assets/image/k3.jpg" alt="Limestone Travertine">
             </div>
         </div>
 
