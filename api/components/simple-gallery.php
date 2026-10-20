@@ -345,7 +345,7 @@
 
       <!-- 1. Tall Featured Card -->
       <div class="superhylam-sg-card tall-card" data-title="Gloss Master & Anti-Scratch Series (1.25mm)">
-        <img src="assets/image/g1.jpg" alt="Gloss Master & Anti-Scratch Decorative Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g1.jpg" alt="Gloss Master & Anti-Scratch Decorative Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Gloss Master (1.25mm)</h3>
         </div>
@@ -354,7 +354,7 @@
 
       <!-- 2. Synchronized Wood Grains -->
       <div class="superhylam-sg-card" data-title="Synchronized Wood Grains (Synchro Series)">
-        <img src="assets/image/g4.jpg" alt="Synchronized Wood Grain Laminate Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g4.jpg" alt="Synchronized Wood Grain Laminate Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Synchronized Wood</h3>
         </div>
@@ -363,7 +363,7 @@
 
       <!-- 3. Fluted Panels -->
       <div class="superhylam-sg-card" data-title="Architectural Fluted Panels">
-        <img src="assets/image/g5.jpg" alt="Architectural Fluted Decorative Panels" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g5.jpg" alt="Architectural Fluted Decorative Panels" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Fluted Wall Panels</h3>
         </div>
@@ -372,7 +372,7 @@
 
       <!-- 4. Acrylic Matt Touch -->
       <div class="superhylam-sg-card" data-title="Acrylic Matt & Anti-Fingerprint Sheets">
-        <img src="assets/image/g2.jpg" alt="Acrylic Matt Anti-Fingerprint Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g2.jpg" alt="Acrylic Matt Anti-Fingerprint Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Acrylic Matt Touch</h3>
         </div>
@@ -381,7 +381,7 @@
 
       <!-- 5. Designer Abstract Collection -->
       <div class="superhylam-sg-card" data-title="Designer Abstract & Fabric Textures">
-        <img src="assets/image/g9.jpg" alt="Designer Abstract Laminate Textures" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g9.jpg" alt="Designer Abstract Laminate Textures" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Designer Abstract</h3>
         </div>
@@ -395,7 +395,7 @@
 
       <!-- 6. Solid Color Core -->
       <div class="superhylam-sg-card" data-title="Solid Color Core Laminates" style="height: 220px;">
-        <img src="assets/image/g6.jpg" alt="Solid Color Core Laminate Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g6.jpg" alt="Solid Color Core Laminate Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Solid Color Core</h3>
         </div>
@@ -404,7 +404,7 @@
 
       <!-- 7. Marble & Stone Series -->
       <div class="superhylam-sg-card" data-title="Marble & Stone Gloss Series" style="height: 220px;">
-        <img src="assets/image/g7.jpg" alt="Marble and Stone Gloss Laminate Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g7.jpg" alt="Marble and Stone Gloss Laminate Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Marble & Stone Series</h3>
         </div>
@@ -413,7 +413,7 @@
 
       <!-- 8. Metallic Foil Accents -->
       <div class="superhylam-sg-card" data-title="Metallic Foil & Textured Accents" style="height: 220px;">
-        <img src="assets/image/g10.jpg" alt="Metallic Foil Textured Sheet" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g10.jpg" alt="Metallic Foil Textured Sheet" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Metallic Foil Accents</h3>
         </div>
@@ -422,7 +422,7 @@
 
       <!-- 9. Natural Wood Veneers -->
       <div class="superhylam-sg-card" data-title="Natural Wood Veneer Sheets" style="height: 220px;">
-        <img src="assets/image/g11.jpg" alt="Natural Wood Veneer Laminate" class="superhylam-sg-img" loading="lazy">
+        <img src="api/assets/image/g11.jpg" alt="Natural Wood Veneer Laminate" class="superhylam-sg-img" loading="lazy">
         <div class="superhylam-sg-overlay">
           <h3 class="superhylam-sg-card-title">Natural Wood Veneer</h3>
         </div>

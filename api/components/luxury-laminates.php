@@ -283,7 +283,7 @@
       <!-- Card 1: Compact Laminates -->
       <div class="superhylam-lux-card" data-tilt>
         <div class="superhylam-lux-img-box">
-          <img src="assets/image/l1.jpg" alt="Compact Laminates - Solid Core Marble & Woodgrain Textures" class="superhylam-lux-img" loading="lazy">
+          <img src="api/assets/image/l1.jpg" alt="Compact Laminates - Solid Core Marble & Woodgrain Textures" class="superhylam-lux-img" loading="lazy">
         </div>
         <div class="superhylam-lux-card-body">
           <h3 class="superhylam-lux-card-title">Compact Laminates</h3>
@@ -300,7 +300,7 @@
       <!-- Card 2: Exterior Laminates -->
       <div class="superhylam-lux-card" data-tilt>
         <div class="superhylam-lux-img-box">
-          <img src="assets/image/l2.jpg" alt="Exterior Laminates - Weather Resistant Cladding" class="superhylam-lux-img" loading="lazy">
+          <img src="api/assets/image/l2.jpg" alt="Exterior Laminates - Weather Resistant Cladding" class="superhylam-lux-img" loading="lazy">
         </div>
         <div class="superhylam-lux-card-body">
           <h3 class="superhylam-lux-card-title">Exterior Laminates</h3>
@@ -317,7 +317,7 @@
       <!-- Card 3: Decorative Laminates -->
       <div class="superhylam-lux-card" data-tilt>
         <div class="superhylam-lux-img-box">
-          <img src="assets/image/l3.jpg" alt="Decorative Laminates - Wardrobes & Interior Wall Surfaces" class="superhylam-lux-img" loading="lazy">
+          <img src="api/assets/image/l3.jpg" alt="Decorative Laminates - Wardrobes & Interior Wall Surfaces" class="superhylam-lux-img" loading="lazy">
         </div>
         <div class="superhylam-lux-card-body">
           <h3 class="superhylam-lux-card-title">Decorative Laminates</h3>
